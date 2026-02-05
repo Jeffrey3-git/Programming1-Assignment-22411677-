@@ -1,4 +1,4 @@
-# Programming 1 - Assignment 1
+# Programming 1 - QUIZ 2
 **Student ID:** 22411677
 
 ## Overview
